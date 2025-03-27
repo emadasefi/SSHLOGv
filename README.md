@@ -39,13 +39,11 @@ With its menu-driven interface, users can easily switch between different viewin
 ```shell
 chmod +x sshlogv.sh
 ```
-<br>
 <li>Run the script with sudo privileges</li>
 
 ```shell
 sudo ./sshlogv.sh
 ```
-<br>
 <li>Navigate through the menu options using the number keys</li>
 <li>Follow on-screen prompts to filter, view, and save logs</li>
 <br><br>
