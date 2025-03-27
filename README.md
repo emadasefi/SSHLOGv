@@ -28,7 +28,7 @@ With its menu-driven interface, users can easily switch between different viewin
 
 
 ## 🖼️ ScreenShots :
-
+<img src="https://raw.githubusercontent.com/emadasefi/SSHLOGv/refs/heads/main/SSHLOGvScreen.gif" alt="SSH Log Viewer"> 
 <br><br>
 
 
